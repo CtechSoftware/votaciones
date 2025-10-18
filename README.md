@@ -14,9 +14,7 @@ Actualiza los votos instantáneamente y muestra una UI limpia, rápida y respons
 ## 📸 Vista Previa
 
 <p align="center">
-  <img src="assets/screenshots/screen_01.png" width="240" />
-  <img src="assets/screenshots/screen_02.png" width="240" />
-  <img src="assets/screenshots/screen_03.png" width="240" />
+  <img src="assets/screenshots/screen_01.png" width="240" /> 
 </p>
 
 ---
@@ -79,9 +77,7 @@ lib/
 
 assets/
 └─ screenshots/
-   ├─ screen_01.png
-   ├─ screen_02.png
-   └─ screen_03.png
+   ├─ screen_01.png   
 ```
 
 ---
