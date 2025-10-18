@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893204985023",
+    "project_id": "groupg13-d90ca",
+    "storage_bucket": "groupg13-d90ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893204985023:android:23dee286428a0e10ea420a",
+        "android_client_info": {
+          "package_name": "com.example.votaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6slWJmJ5GYMGe5UY3qIm0z76MmORo5p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
