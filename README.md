@@ -13,8 +13,7 @@ Actualiza los votos instantáneamente y muestra una UI limpia, rápida y respons
 
 ## 📸 Vista Previa
 
-<p align="center">
-  <img src="assets/screenshots/screen_01.png" width="240" />
+<p align="center">  
   <img src="assets/screenshots/demo.gif" width="240" />
 
 </p>
@@ -79,7 +78,7 @@ lib/
 
 assets/
 └─ screenshots/
-   ├─ screen_01.png   
+   ├─ demo.gif   
 ```
 
 ---
